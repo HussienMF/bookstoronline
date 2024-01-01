@@ -1,0 +1,91 @@
+body{
+    background-color: #f3f2ec;
+}
+header .container i {
+    color: #130956;
+
+    margin: 10px;
+}
+header .container h1,.book h2{
+
+    color: #130956;
+    margin: 0px;
+
+}
+header .container, .features{
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+header .container{
+    margin: 20px auto;
+    width: calc(70%);
+}
+header input {
+    /* background-color: #dbd7ca; */
+    width: 550px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+
+.contain {
+    margin: 30px auto;
+    width: calc(80%);
+    text-align: center;
+}
+.contain .user .form-control,
+.contain .password .form-control2 {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+   
+}
+.label-text{
+    margin-bottom: 10px;
+    display: block;
+}
+.Login {
+    padding: 8px;
+    /*width: 200px;*/
+    border-radius: 5px;
+    background-color: #dbd7ca;
+}
+.ErrMsg{
+       color: red;
+    display: block;
+}
+/* small */
+@media (min-width: 768px) {
+       .contain .user .form-control,
+    .contain .password .form-control2 {
+        width: 200px;
+}
+          .Login {
+        width: 150px;
+       
+    }
+}
+/* Medium */
+@media (min-width: 992px) {
+    .contain .user .form-control,
+    .contain .password .form-control2 {
+        width: 400px;
+}
+    .Login {
+        width: 200px;
+       
+    }
+}
+/* Large */
+@media (min-width: 1200px) {
+   .contain .user .form-control,
+    .contain .password .form-control2 {
+        width: 600px;
+        }
+      .Login {
+        width: 250px;
+       
+    }
+}

@@ -1,0 +1,155 @@
+body{
+    background-color: #f3f2ec;
+}
+header .container i {
+    color: #130956;
+
+    margin: 10px;
+}
+header .container h1,.book h2{
+
+    color: #130956;
+    margin: 10.72px;
+
+}
+header .container, .features{
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+header .container,.bookgrid{
+    margin: 20px auto;
+    width: calc(90%);
+}
+header input {
+    background-color: #dbd7ca;
+   /*width: 53%;*/
+    border: none;
+    border-radius: 30px;
+    /*margin-left: 60px;*/
+}
+
+ .contain{    
+    width: calc(90%);
+    display: flex;
+    /* height: 400px; */
+    text-align: center;
+    padding: 30px;
+    margin: 30px auto;
+    flex-wrap: wrap;}
+.show_more{
+    border: 2px solid #222;
+    text-decoration: none;
+    padding: 11px;
+    color: #222;
+    display: block;
+    width: fit-content;
+    margin: 20px;
+}
+.detail-book{
+    margin: 20px;
+    width: 500px;
+}
+.features .book_container{
+    background-color: #eee;
+    padding: 20px;
+    margin: 10px;
+    width: calc(100%/4);
+    text-align: center;
+    border-radius: 30px;
+    min-width: 300px;
+}
+
+.features div h3{
+    margin: 0px;
+    /* text-align: right; */
+    padding: 10px;
+    text-align: center;
+}
+.features .book_container img{
+    width: calc(50% - 20px);
+    height: 300px;
+}
+.features .book_container .discreption{
+    display: flex;
+}
+.featu{
+    background-color: #dbd7ca;
+    width: calc(80%);
+    margin: 30px auto;
+
+}
+.featu p{
+    padding-top: 26px;
+}
+.featu .group-pic{
+    display: flex;
+    flex-wrap: wrap;
+}
+.featu .pic-book{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.featu .pic-book p{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.featu .pic-book .bookname{
+    color: #74642f;
+    font-size: 32px;
+}
+.featu .pic-book .author{
+    color: #82817f;
+    font-size: 22px;
+}
+.featu .pic-book .price{
+    color: #74642f;    font-size: 22px;
+}
+.featu .pic-book .imgIn,.featu .pic-book img{
+  
+    width: calc(100% - 20px);
+    height: 300px;
+    margin-bottom: 20px;
+    
+   
+}
+/* small */
+@media (min-width: 450px) {
+ 
+   
+    header input {
+         width:35%;
+
+    }
+
+   .fa-solid, header .container h1{
+          font-size: 1em;
+        }
+
+}
+/* Medium */
+@media (min-width: 950px) {
+
+ 
+       header input {
+    width:50%;}
+    
+     .fa-solid, header .container h1{
+          font-size: 1.5em;
+        }
+}
+/* Large */
+@media (min-width: 1200px) {
+       header input {
+            width:66%;
+
+       }
+     
+     .fa-solid, header .container h1{
+          font-size: 2em;
+}
+}

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Release\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Release\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Release\mybookpage.pdb

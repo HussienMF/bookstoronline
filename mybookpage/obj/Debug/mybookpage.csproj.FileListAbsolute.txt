@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-26-12\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-27-12 -\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\bin\mybookpage.dll.config
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\bin\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\bin\mybookpage.pdb
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.dll
+C:\Users\User\Desktop\homeworks\BWP401-28-12 - Copy - Copy\mybookpage\mybookpage\obj\Debug\mybookpage.pdb

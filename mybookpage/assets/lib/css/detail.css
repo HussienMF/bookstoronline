@@ -1,0 +1,111 @@
+body{
+    background-color: #f3f2ec;
+}
+header .container i {
+    color: #130956;
+
+    margin: 10px;
+}
+header .container h1{
+
+    color: #130956;
+    margin: 0px;
+
+}
+header .container, .features{
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+header .container{
+    margin: 20px auto;
+    width: 80%;
+}
+header input {
+    background-color: #dbd7ca;
+    width: 550px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+
+
+.contain{
+    display: flex;
+    margin: 20px auto;
+    width: 80%;
+}
+.contain img{
+    width: calc(100%/2);
+    height: 350px;
+
+}
+
+.contain .detail-book{
+    margin: 28px;
+    width: calc(100%);
+    text-align: center;
+}
+    .contain .detail-book .add {
+        border: solid 2px #130956;
+        border-radius: 10px;
+        width: fit-content;
+        padding: 10px;
+        margin-bottom: 64px;
+    }
+
+.grid-con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Delbutton {
+    border: solid 2px #130956;
+    border-radius: 10px;
+    width: fit-content;
+    height: 29px;
+    margin: 10px;
+}
+/*GridView{
+        background-color: #dbd7ca;
+    margin-top: 70px;
+    padding: 5px;
+    text-align: center;
+    width: calc(100%);
+    height: fit-content;
+}*/
+/* small */
+@media (min-width: 768px) {
+    
+    .contain .detail-book {
+    width:60%;
+    }
+        .contain .detail-book h2 {
+    /* text-align: right; */
+    font-size: 30px;
+}
+}
+/* Medium */
+@media (min-width: 992px) {
+    
+    .contain .detail-book {
+    width:80%;
+    }
+    .contain .detail-book h2 {
+    /* text-align: right; */
+    font-size: 40px;
+}
+
+}
+/* Large */
+@media (min-width: 1200px) {
+
+
+    .contain .detail-book {
+    width:100%;
+    }
+     .contain .detail-book h2 {
+    /* text-align: right; */
+    font-size: 50px;
+}
+}
